@@ -1,0 +1,802 @@
+Name,JPname,Abilities,Weight(kg)
+Bulbasaur,Fushigidaneフシギダネ,"['Overgrow', 'Chlorophyll']",6.9
+Ivysaur,Fushigisouフシギソウ,"['Overgrow', 'Chlorophyll']",13.0
+Venusaur,Fushigibanaフシギバナ,"['Overgrow', 'Chlorophyll']",100.0
+Charmander,Hitokageヒトカゲ,"['Blaze', 'Solar Power']",8.5
+Charmeleon,Lizardoリザード,"['Blaze', 'Solar Power']",19.0
+Charizard,Lizardonリザードン,"['Blaze', 'Solar Power']",90.5
+Squirtle,Zenigameゼニガメ,"['Torrent', 'Rain Dish']",9.0
+Wartortle,Kameilカメール,"['Torrent', 'Rain Dish']",22.5
+Blastoise,Kamexカメックス,"['Torrent', 'Rain Dish']",85.5
+Caterpie,Caterpieキャタピー,"['Shield Dust', 'Run Away']",2.9
+Metapod,Transelトランセル,['Shed Skin'],9.9
+Butterfree,Butterfreeバタフリー,"['Compoundeyes', 'Tinted Lens']",32.0
+Weedle,Beedleビードル,"['Shield Dust', 'Run Away']",3.2
+Kakuna,Cocoonコクーン,['Shed Skin'],10.0
+Beedrill,Spearスピアー,"['Swarm', 'Sniper']",29.5
+Pidgey,Poppoポッポ,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",1.8
+Pidgeotto,Pigeonピジョン,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",30.0
+Pidgeot,Pigeotピジョット,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",39.5
+Rattata,Korattaコラッタ,"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",
+Raticate,Rattaラッタ,"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",
+Spearow,Onisuzumeオニスズメ,"['Keen Eye', 'Sniper']",2.0
+Fearow,Onidrillオニドリル,"['Keen Eye', 'Sniper']",38.0
+Ekans,Arboアーボ,"['Intimidate', 'Shed Skin', 'Unnerve']",6.9
+Arbok,Arbokアーボック,"['Intimidate', 'Shed Skin', 'Unnerve']",65.0
+Pikachu,Pikachuピカチュウ,"['Static', 'Lightningrod']",6.0
+Raichu,Raichuライチュウ,"['Static', 'Lightningrod', 'Surge Surfer']",
+Sandshrew,Sandサンド,"['Sand Veil', 'Sand Rush', 'Snow Cloak', 'Slush Rush']",
+Sandslash,Sandpanサンドパン,"['Sand Veil', 'Sand Rush', 'Snow Cloak', 'Slush Rush']",
+Nidoran♀,Nidoran?ニドラン♀,"['Poison Point', 'Rivalry', 'Hustle']",7.0
+Nidorina,Nidorinaニドリーナ,"['Poison Point', 'Rivalry', 'Hustle']",20.0
+Nidoqueen,Nidoqueenニドクイン,"['Poison Point', 'Rivalry', 'Sheer Force']",60.0
+Nidoran♂,Nidoran?ニドラン♂,"['Poison Point', 'Rivalry', 'Hustle']",9.0
+Nidorino,Nidorinoニドリーノ,"['Poison Point', 'Rivalry', 'Hustle']",19.5
+Nidoking,Nidokingニドキング,"['Poison Point', 'Rivalry', 'Sheer Force']",62.0
+Clefairy,Pippiピッピ,"['Cute Charm', 'Magic Guard', 'Friend Guard']",7.5
+Clefable,Pixyピクシー,"['Cute Charm', 'Magic Guard', 'Unaware']",40.0
+Vulpix,Rokonロコン,"['Flash Fire', 'Drought', 'Snow Cloak', 'Snow Warning']",
+Ninetales,Kyukonキュウコン,"['Flash Fire', 'Drought', 'Snow Cloak', 'Snow Warning']",
+Jigglypuff,Purinプリン,"['Cute Charm', 'Competitive', 'Friend Guard']",5.5
+Wigglytuff,Pukurinプクリン,"['Cute Charm', 'Competitive', 'Frisk']",12.0
+Zubat,Zubatズバット,"['Inner Focus', 'Infiltrator']",7.5
+Golbat,Golbatゴルバット,"['Inner Focus', 'Infiltrator']",55.0
+Oddish,Nazonokusaナゾノクサ,"['Chlorophyll', 'Run Away']",5.4
+Gloom,Kusaihanaクサイハナ,"['Chlorophyll', 'Stench']",8.6
+Vileplume,Ruffresiaラフレシア,"['Chlorophyll', 'Effect Spore']",18.6
+Paras,Parasパラス,"['Effect Spore', 'Dry Skin', 'Damp']",5.4
+Parasect,Parasectパラセクト,"['Effect Spore', 'Dry Skin', 'Damp']",29.5
+Venonat,Kongpangコンパン,"['Compoundeyes', 'Tinted Lens', 'Run Away']",30.0
+Venomoth,Morphonモルフォン,"['Shield Dust', 'Tinted Lens', 'Wonder Skin ']",12.5
+Diglett,Digdaディグダ,"['Sand Veil', 'Arena Trap', 'Sand Force', 'Sand Veil', 'Tangling Hair', 'Sand Force']",
+Dugtrio,Dugtrioダグトリオ,"['Sand Veil', 'Arena Trap', 'Sand Force', 'Sand Veil', 'Tangling Hair', 'Sand Force']",
+Meowth,Nyarthニャース,"['Pickup', 'Technician', 'Unnerve', 'Pickup', 'Technician', 'Rattled']",
+Persian,Persianペルシアン,"['Limber', 'Technician', 'Unnerve', 'Fur Coat', 'Technician', 'Rattled']",
+Psyduck,Koduckコダック,"['Damp', 'Cloud Nine', 'Swift Swim']",19.6
+Golduck,Golduckゴルダック,"['Damp', 'Cloud Nine', 'Swift Swim']",76.6
+Mankey,Mankeyマンキー,"['Vital Spirit', 'Anger Point', 'Defiant']",28.0
+Primeape,Okorizaruオコリザル,"['Vital Spirit', 'Anger Point', 'Defiant']",32.0
+Growlithe,Gardieガーディ,"['Intimidate', 'Flash Fire', 'Justified']",19.0
+Arcanine,Windieウインディ,"['Intimidate', 'Flash Fire', 'Justified']",155.0
+Poliwag,Nyoromoニョロモ,"['Water Absorb', 'Damp', 'Swift Swim']",12.4
+Poliwhirl,Nyorozoニョロゾ,"['Water Absorb', 'Damp', 'Swift Swim']",20.0
+Poliwrath,Nyorobonニョロボン,"['Water Absorb', 'Damp', 'Swift Swim']",54.0
+Abra,Caseyケーシィ,"['Synchronize', 'Inner Focus', 'Magic Guard']",19.5
+Kadabra,Yungererユンゲラー,"['Synchronize', 'Inner Focus', 'Magic Guard']",56.5
+Alakazam,Foodinフーディン,"['Synchronize', 'Inner Focus', 'Magic Guard']",48.0
+Machop,Wanrikyワンリキー,"['Guts', 'No Guard', 'Steadfast']",19.5
+Machoke,Gorikyゴーリキー,"['Guts', 'No Guard', 'Steadfast']",70.5
+Machamp,Kairikyカイリキー,"['Guts', 'No Guard', 'Steadfast']",130.0
+Bellsprout,Madatsubomiマダツボミ,"['Chlorophyll', 'Gluttony']",4.0
+Weepinbell,Utsudonウツドン,"['Chlorophyll', 'Gluttony']",6.4
+Victreebel,Utsubotウツボット,"['Chlorophyll', 'Gluttony']",15.5
+Tentacool,Menokurageメノクラゲ,"['Clear Body', 'Liquid Ooze', 'Rain Dish']",45.5
+Tentacruel,Dokukurageドククラゲ,"['Clear Body', 'Liquid Ooze', 'Rain Dish']",55.0
+Geodude,Isitsubuteイシツブテ,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",
+Graveler,Goloneゴローン,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",
+Golem,Golonyaゴローニャ,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",
+Ponyta,Ponytaポニータ,"['Run Away', 'Flash Fire', 'Flame Body']",30.0
+Rapidash,Gallopギャロップ,"['Run Away', 'Flash Fire', 'Flame Body']",95.0
+Slowpoke,Yadonヤドン,"['Oblivious', 'Own Tempo', 'Regenerator']",36.0
+Slowbro,Yadoranヤドラン,"['Oblivious', 'Own Tempo', 'Regenerator']",78.5
+Magnemite,Coilコイル,"['Magnet Pull', 'Sturdy', 'Analytic']",6.0
+Magneton,Rarecoilレアコイル,"['Magnet Pull', 'Sturdy', 'Analytic']",60.0
+Farfetch'd,Kamonegiカモネギ,"['Keen Eye', 'Inner Focus', 'Defiant']",15.0
+Doduo,Dodoドードー,"['Run Away', 'Early Bird', 'Tangled Feet']",39.2
+Dodrio,Dodorioドードリオ,"['Run Away', 'Early Bird', 'Tangled Feet']",85.2
+Seel,Pawouパウワウ,"['Thick Fat', 'Hydration', 'Ice Body']",90.0
+Dewgong,Jugonジュゴン,"['Thick Fat', 'Hydration', 'Ice Body']",120.0
+Grimer,Betbeterベトベター,"['Stench', 'Sticky Hold', 'Poison Touch', 'Poison Touch', 'Gluttony', 'Power of Alchemy']",
+Muk,Betbetonベトベトン,"['Stench', 'Sticky Hold', 'Poison Touch', 'Poison Touch', 'Gluttony', 'Power of Alchemy']",
+Shellder,Shellderシェルダー,"['Shell Armor', 'Skill Link', 'Overcoat']",4.0
+Cloyster,Parshenパルシェン,"['Shell Armor', 'Skill Link', 'Overcoat']",132.5
+Gastly,Ghosゴース,['Levitate'],0.1
+Haunter,Ghostゴースト,['Levitate'],0.1
+Gengar,Gangarゲンガー,['Cursed Body'],40.5
+Onix,Iwarkイワーク,"['Rock Head', 'Sturdy', 'Weak Armor']",210.0
+Drowzee,Sleepeスリープ,"['Insomnia', 'Forewarn', 'Inner Focus']",32.4
+Hypno,Sleeperスリーパー,"['Insomnia', 'Forewarn', 'Inner Focus']",75.6
+Krabby,Crabクラブ,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",6.5
+Kingler,Kinglerキングラー,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",60.0
+Voltorb,Biriridamaビリリダマ,"['Soundproof', 'Static', 'Aftermath']",10.4
+Electrode,Marumineマルマイン,"['Soundproof', 'Static', 'Aftermath']",66.6
+Exeggcute,Tamatamaタマタマ,"['Chlorophyll', 'Harvest']",2.5
+Exeggutor,Nassyナッシー,"['Chlorophyll', 'Harvest', 'Frisk', 'Harvest']",
+Cubone,Karakaraカラカラ,"['Rock Head', 'Lightningrod', 'Battle Armor']",6.5
+Marowak,Garagaraガラガラ,"['Rock Head', 'Lightningrod', 'Battle Armor', 'Cursed Body', 'Lightningrod', 'Rock Head']",
+Hitmonlee,Sawamularサワムラー,"['Limber', 'Reckless', 'Unburden']",49.8
+Hitmonchan,Ebiwalarエビワラー,"['Keen Eye', 'Iron Fist', 'Inner Focus']",50.2
+Lickitung,Beroringaベロリンガ,"['Own Tempo', 'Oblivious', 'Cloud Nine']",65.5
+Koffing,Dogarsドガース,['Levitate'],1.0
+Weezing,Matadogasマタドガス,['Levitate'],9.5
+Rhyhorn,Sihornサイホーン,"['Lightningrod', 'Rock Head', 'Reckless']",115.0
+Rhydon,Sidonサイドン,"['Lightningrod', 'Rock Head', 'Reckless']",120.0
+Chansey,Luckyラッキー,"['Natural Cure', 'Serene Grace', 'Healer']",34.6
+Tangela,Monjaraモンジャラ,"['Chlorophyll', 'Leaf Guard', 'Regenerator']",35.0
+Kangaskhan,Garuraガルーラ,"['Early Bird', 'Scrappy', 'Inner Focus']",80.0
+Horsea,Tattuタッツー,"['Swift Swim', 'Sniper', 'Damp']",8.0
+Seadra,Seadraシードラ,"['Poison Point', 'Sniper', 'Damp']",25.0
+Goldeen,Tosakintoトサキント,"['Swift Swim', 'Water Veil', 'Lightningrod']",15.0
+Seaking,Azumaoアズマオウ,"['Swift Swim', 'Water Veil', 'Lightningrod']",39.0
+Staryu,Hitodemanヒトデマン,"['Illuminate', 'Natural Cure', 'Analytic']",34.5
+Starmie,Starmieスターミー,"['Illuminate', 'Natural Cure', 'Analytic']",80.0
+Mr. Mime,Barrierdバリヤード,"['Soundproof', 'Filter', 'Technician']",54.5
+Scyther,Strikeストライク,"['Swarm', 'Technician', 'Steadfast']",56.0
+Jynx,Rougelaルージュラ,"['Oblivious', 'Forewarn', 'Dry Skin']",40.6
+Electabuzz,Elebooエレブー,"['Static', 'Vital Spirit']",30.0
+Magmar,Booberブーバー,"['Flame Body', 'Vital Spirit']",44.5
+Pinsir,Kailiosカイロス,"['Hyper Cutter', 'Mold Breaker', 'Moxie']",55.0
+Tauros,Kentaurosケンタロス,"['Intimidate', 'Anger Point', 'Sheer Force']",88.4
+Magikarp,Koikingコイキング,"['Swift Swim', 'Rattled']",10.0
+Gyarados,Gyaradosギャラドス,"['Intimidate', 'Moxie']",235.0
+Lapras,Laplaceラプラス,"['Water Absorb', 'Shell Armor', 'Hydration']",220.0
+Ditto,Metamonメタモン,"['Limber', 'Imposter']",4.0
+Eevee,Eievuiイーブイ,"['Run Away', 'Adaptability', 'Anticipation']",6.5
+Vaporeon,Showersシャワーズ,"['Water Absorb', 'Hydration']",29.0
+Jolteon,Thundersサンダース,"['Volt Absorb', 'Quick Feet']",24.5
+Flareon,Boosterブースター,"['Flash Fire', 'Guts']",25.0
+Porygon,Porygonポリゴン,"['Trace', 'Download', 'Analytic']",36.5
+Omanyte,Omniteオムナイト,"['Swift Swim', 'Shell Armor', 'Weak Armor']",7.5
+Omastar,Omstarオムスター,"['Swift Swim', 'Shell Armor', 'Weak Armor']",35.0
+Kabuto,Kabutoカブト,"['Swift Swim', 'Battle Armor', 'Weak Armor']",11.5
+Kabutops,Kabutopsカブトプス,"['Swift Swim', 'Battle Armor', 'Weak Armor']",40.5
+Aerodactyl,Pteraプテラ,"['Rock Head', 'Pressure', 'Unnerve']",59.0
+Snorlax,Kabigonカビゴン,"['Immunity', 'Thick Fat', 'Gluttony']",460.0
+Articuno,Freezerフリーザー,"['Pressure', 'Snow Cloak']",55.4
+Zapdos,Thunderサンダー,"['Pressure', 'Static']",52.6
+Moltres,Fireファイヤー,"['Pressure', 'Flame Body']",60.0
+Dratini,Miniryuミニリュウ,"['Shed Skin', 'Marvel Scale']",3.3
+Dragonair,Hakuryuハクリュー,"['Shed Skin', 'Marvel Scale']",16.5
+Dragonite,Kairyuカイリュー,"['Inner Focus', 'Multiscale']",210.0
+Mewtwo,Mewtwoミュウツー,"['Pressure', 'Unnerve']",122.0
+Mew,Mewミュウ,['Synchronize'],4.0
+Chikorita,Chicoritaチコリータ,"['Overgrow', 'Leaf Guard']",6.4
+Bayleef,Bayleafベイリーフ,"['Overgrow', 'Leaf Guard']",15.8
+Meganium,Meganiumメガニウム,"['Overgrow', 'Leaf Guard']",100.5
+Cyndaquil,Hinoarashiヒノアラシ,"['Blaze', 'Flash Fire']",7.9
+Quilava,Magmarashiマグマラシ,"['Blaze', 'Flash Fire']",19.0
+Typhlosion,Bakphoonバクフーン,"['Blaze', 'Flash Fire']",79.5
+Totodile,Waninokoワニノコ,"['Torrent', 'Sheer Force']",9.5
+Croconaw,Alligatesアリゲイツ,"['Torrent', 'Sheer Force']",25.0
+Feraligatr,Ordileオーダイル,"['Torrent', 'Sheer Force']",88.8
+Sentret,Otachiオタチ,"['Run Away', 'Keen Eye', 'Frisk']",6.0
+Furret,Ootachiオオタチ,"['Run Away', 'Keen Eye', 'Frisk']",32.5
+Hoothoot,Hohoホーホー,"['Insomnia', 'Keen Eye', 'Tinted Lens']",21.2
+Noctowl,Yorunozukuヨルノズク,"['Insomnia', 'Keen Eye', 'Tinted Lens']",40.8
+Ledyba,Redibaレディバ,"['Swarm', 'Early Bird', 'Rattled']",10.8
+Ledian,Redianレディアン,"['Swarm', 'Early Bird', 'Iron Fist']",35.6
+Spinarak,Itomaruイトマル,"['Swarm', 'Insomnia', 'Sniper']",8.5
+Ariados,Ariadosアリアドス,"['Swarm', 'Insomnia', 'Sniper']",33.5
+Crobat,Crobatクロバット,"['Inner Focus', 'Infiltrator']",75.0
+Chinchou,Chonchieチョンチー,"['Volt Absorb', 'Illuminate', 'Water Absorb']",12.0
+Lanturn,Lanternランターン,"['Volt Absorb', 'Illuminate', 'Water Absorb']",22.5
+Pichu,Pichuピチュー,"['Static', 'Lightningrod']",2.0
+Cleffa,Pyピィ,"['Cute Charm', 'Magic Guard', 'Friend Guard']",3.0
+Igglybuff,Pupurinププリン,"['Cute Charm', 'Competitive', 'Friend Guard']",1.0
+Togepi,Togepyトゲピー,"['Hustle', 'Serene Grace', 'Super Luck']",1.5
+Togetic,Togechickトゲチック,"['Hustle', 'Serene Grace', 'Super Luck']",3.2
+Natu,Natyネイティ,"['Synchronize', 'Early Bird', 'Magic Bounce']",2.0
+Xatu,Natioネイティオ,"['Synchronize', 'Early Bird', 'Magic Bounce']",15.0
+Mareep,Merriepメリープ,"['Static', 'Plus']",7.8
+Flaaffy,Mokokoモココ,"['Static', 'Plus']",13.3
+Ampharos,Denryuデンリュウ,"['Static', 'Plus']",61.5
+Bellossom,Kireihanaキレイハナ,"['Chlorophyll', 'Healer']",5.8
+Marill,Marilマリル,"['Thick Fat', 'Huge Power', 'Sap Sipper']",8.5
+Azumarill,Marilliマリルリ,"['Thick Fat', 'Huge Power', 'Sap Sipper']",28.5
+Sudowoodo,Usokkieウソッキー,"['Sturdy', 'Rock Head', 'Rattled']",38.0
+Politoed,Nyorotonoニョロトノ,"['Water Absorb', 'Damp', 'Drizzle']",33.9
+Hoppip,Haneccoハネッコ,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",0.5
+Skiploom,Popoccoポポッコ,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",1.0
+Jumpluff,Wataccoワタッコ,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",3.0
+Aipom,Eipamエイパム,"['Run Away', 'Pickup', 'Skill Link']",11.5
+Sunkern,Himanutsヒマナッツ,"['Chlorophyll', 'Solar Power', 'Early Bird']",1.8
+Sunflora,Kimawariキマワリ,"['Chlorophyll', 'Solar Power', 'Early Bird']",8.5
+Yanma,Yanyanmaヤンヤンマ,"['Speed Boost', 'Compoundeyes', 'Frisk']",38.0
+Wooper,Upahウパー,"['Damp', 'Water Absorb', 'Unaware']",8.5
+Quagsire,Nuohヌオー,"['Damp', 'Water Absorb', 'Unaware']",75.0
+Espeon,Eifieエーフィ,"['Synchronize', 'Magic Bounce']",26.5
+Umbreon,Blackyブラッキー,"['Synchronize', 'Inner Focus']",27.0
+Murkrow,Yamikarasuヤミカラス,"['Insomnia', 'Super Luck', 'Prankster']",2.1
+Slowking,Yadokingヤドキング,"['Oblivious', 'Own Tempo', 'Regenerator']",79.5
+Misdreavus,Mumaムウマ,['Levitate'],1.0
+Unown,Unknownアンノーン,['Levitate'],5.0
+Wobbuffet,Sonansソーナンス,"['Shadow Tag', 'Telepathy']",28.5
+Girafarig,Kirinrikiキリンリキ,"['Inner Focus', 'Early Bird', 'Sap Sipper']",41.5
+Pineco,Kunugidamaクヌギダマ,"['Sturdy', 'Overcoat']",7.2
+Forretress,Foretosフォレトス,"['Sturdy', 'Overcoat']",125.8
+Dunsparce,Nokocchiノコッチ,"['Serene Grace', 'Run Away', 'Rattled']",14.0
+Gligar,Gligerグライガー,"['Hyper Cutter', 'Sand Veil', 'Immunity']",64.8
+Steelix,Haganeilハガネール,"['Rock Head', 'Sturdy', 'Sheer Force']",400.0
+Snubbull,Buluブルー,"['Intimidate', 'Run Away', 'Rattled']",7.8
+Granbull,Granbuluグランブル,"['Intimidate', 'Quick Feet', 'Rattled']",48.7
+Qwilfish,Harysenハリーセン,"['Poison Point', 'Swift Swim', 'Intimidate']",3.9
+Scizor,Hassamハッサム,"['Swarm', 'Technician', 'Light Metal']",118.0
+Shuckle,Tsubotsuboツボツボ,"['Sturdy', 'Gluttony', 'Contrary']",20.5
+Heracross,Heracrosヘラクロス,"['Swarm', 'Guts', 'Moxie']",54.0
+Sneasel,Nyulaニューラ,"['Inner Focus', 'Keen Eye', 'Pickpocket']",28.0
+Teddiursa,Himegumaヒメグマ,"['Pickup', 'Quick Feet', 'Honey Gather']",8.8
+Ursaring,Ringumaリングマ,"['Guts', 'Quick Feet', 'Unnerve']",125.8
+Slugma,Magmagマグマッグ,"['Magma Armor', 'Flame Body', 'Weak Armor']",35.0
+Magcargo,Magcargotマグカルゴ,"['Magma Armor', 'Flame Body', 'Weak Armor']",55.0
+Swinub,Urimooウリムー,"['Oblivious', 'Snow Cloak', 'Thick Fat']",6.5
+Piloswine,Inomooイノムー,"['Oblivious', 'Snow Cloak', 'Thick Fat']",55.8
+Corsola,Sunnygoサニーゴ,"['Hustle', 'Natural Cure', 'Regenerator']",5.0
+Remoraid,Teppouoテッポウオ,"['Hustle', 'Sniper', 'Moody']",12.0
+Octillery,Okutankオクタン,"['Suction Cups', 'Sniper', 'Moody']",28.5
+Delibird,Delibirdデリバード,"['Vital Spirit', 'Hustle', 'Insomnia']",16.0
+Mantine,Mantainマンタイン,"['Swift Swim', 'Water Absorb', 'Water Veil']",220.0
+Skarmory,Airmdエアームド,"['Keen Eye', 'Sturdy', 'Weak Armor']",50.5
+Houndour,Delvilデルビル,"['Early Bird', 'Flash Fire', 'Unnerve']",10.8
+Houndoom,Hellgarヘルガー,"['Early Bird', 'Flash Fire', 'Unnerve']",35.0
+Kingdra,Kingdraキングドラ,"['Swift Swim', 'Sniper', 'Damp']",152.0
+Phanpy,Gomazouゴマゾウ,"['Pickup', 'Sand Veil']",33.5
+Donphan,Donfanドンファン,"['Sturdy', 'Sand Veil']",120.0
+Porygon2,Porygon2ポリゴン２,"['Trace', 'Download', 'Analytic']",32.5
+Stantler,Odoshishiオドシシ,"['Intimidate', 'Frisk', 'Sap Sipper']",71.2
+Smeargle,Dobleドーブル,"['Own Tempo', 'Technician', 'Moody']",58.0
+Tyrogue,Balkieバルキー,"['Guts', 'Steadfast', 'Vital Spirit']",21.0
+Hitmontop,Kapoererカポエラー,"['Intimidate', 'Technician', 'Steadfast']",48.0
+Smoochum,Muchulムチュール,"['Oblivious', 'Forewarn', 'Hydration']",6.0
+Elekid,Elekidエレキッド,"['Static', 'Vital Spirit']",23.5
+Magby,Bubyブビィ,"['Flame Body', 'Vital Spirit']",21.4
+Miltank,Miltankミルタンク,"['Thick Fat', 'Scrappy', 'Sap Sipper']",75.5
+Blissey,Happinasハピナス,"['Natural Cure', 'Serene Grace', 'Healer']",46.8
+Raikou,Raikouライコウ,"['Pressure', 'Inner Focus']",178.0
+Entei,Enteiエンテイ,"['Pressure', 'Inner Focus']",198.0
+Suicune,Suicuneスイクン,"['Pressure', 'Inner Focus']",187.0
+Larvitar,Yogirasヨーギラス,"['Guts', 'Sand Veil']",72.0
+Pupitar,Sanagirasサナギラス,['Shed Skin'],152.0
+Tyranitar,Bangirasバンギラス,"['Sand Stream', 'Unnerve']",202.0
+Lugia,Lugiaルギア,"['Pressure', 'Multiscale']",216.0
+Ho-Oh,Hououホウオウ,"['Pressure', 'Regenerator']",199.0
+Celebi,Celebiセレビィ,['Natural Cure'],5.0
+Treecko,Kimoriキモリ,"['Overgrow', 'Unburden']",5.0
+Grovyle,Juptileジュプトル,"['Overgrow', 'Unburden']",21.6
+Sceptile,Jukainジュカイン,"['Overgrow', 'Unburden']",52.2
+Torchic,Achamoアチャモ,"['Blaze', 'Speed Boost']",2.5
+Combusken,Wakasyamoワカシャモ,"['Blaze', 'Speed Boost']",19.5
+Blaziken,Bursyamoバシャーモ,"['Blaze', 'Speed Boost']",52.0
+Mudkip,Mizugorouミズゴロウ,"['Torrent', 'Damp']",7.6
+Marshtomp,Numacrawヌマクロー,"['Torrent', 'Damp']",28.0
+Swampert,Laglargeラグラージ,"['Torrent', 'Damp']",81.9
+Poochyena,Pochienaポチエナ,"['Run Away', 'Quick Feet', 'Rattled']",13.6
+Mightyena,Graenaグラエナ,"['Intimidate', 'Quick Feet', 'Moxie']",37.0
+Zigzagoon,Jiguzagumaジグザグマ,"['Pickup', 'Gluttony', 'Quick Feet']",17.5
+Linoone,Massugumaマッスグマ,"['Pickup', 'Gluttony', 'Quick Feet']",32.5
+Wurmple,Kemussoケムッソ,"['Shield Dust', 'Run Away']",3.6
+Silcoon,Karasalisカラサリス,['Shed Skin'],10.0
+Beautifly,Agehuntアゲハント,"['Swarm', 'Rivalry']",28.4
+Cascoon,Mayuldマユルド,['Shed Skin'],11.5
+Dustox,Dokucaleドクケイル,"['Shield Dust', 'Compoundeyes']",31.6
+Lotad,Hassbohハスボー,"['Swift Swim', 'Rain Dish', 'Own Tempo']",2.6
+Lombre,Hasubreroハスブレロ,"['Swift Swim', 'Rain Dish', 'Own Tempo']",32.5
+Ludicolo,Runpappaルンパッパ,"['Swift Swim', 'Rain Dish', 'Own Tempo']",55.0
+Seedot,Tanebohタネボー,"['Chlorophyll', 'Early Bird', 'Pickpocket']",4.0
+Nuzleaf,Konohanaコノハナ,"['Chlorophyll', 'Early Bird', 'Pickpocket']",28.0
+Shiftry,Dirtengダーテング,"['Chlorophyll', 'Early Bird', 'Pickpocket']",59.6
+Taillow,Subameスバメ,"['Guts', 'Scrappy']",2.3
+Swellow,Ohsubameオオスバメ,"['Guts', 'Scrappy']",19.8
+Wingull,Camomeキャモメ,"['Keen Eye', 'Hydration', 'Rain Dish']",9.5
+Pelipper,Pelipperペリッパー,"['Keen Eye', 'Drizzle', 'Rain Dish']",28.0
+Ralts,Raltsラルトス,"['Synchronize', 'Trace', 'Telepathy']",6.6
+Kirlia,Kirliaキルリア,"['Synchronize', 'Trace', 'Telepathy']",20.2
+Gardevoir,Sirnightサーナイト,"['Synchronize', 'Trace', 'Telepathy']",48.4
+Surskit,Ametamaアメタマ,"['Swift Swim', 'Rain Dish']",1.7
+Masquerain,Amemothアメモース,"['Intimidate', 'Unnerve']",3.6
+Shroomish,Kinococoキノココ,"['Effect Spore', 'Poison Heal', 'Quick Feet']",4.5
+Breloom,Kinogassaキノガッサ,"['Effect Spore', 'Poison Heal', 'Technician']",39.2
+Slakoth,Namakeroナマケロ,['Truant'],24.0
+Vigoroth,Yarukimonoヤルキモノ,['Vital Spirit'],46.5
+Slaking,Kekkingケッキング,['Truant'],130.5
+Nincada,Tutininツチニン,"['Compoundeyes', 'Run Away']",5.5
+Ninjask,Tekkaninテッカニン,"['Speed Boost', 'Infiltrator']",12.0
+Shedinja,Nukeninヌケニン,['Wonder Guard'],1.2
+Whismur,Gonyonyoゴニョニョ,"['Soundproof', 'Rattled']",16.3
+Loudred,Dogohmbドゴーム,"['Soundproof', 'Scrappy']",40.5
+Exploud,Bakuongバクオング,"['Soundproof', 'Scrappy']",84.0
+Makuhita,Makunoshitaマクノシタ,"['Thick Fat', 'Guts', 'Sheer Force']",86.4
+Hariyama,Hariteyamaハリテヤマ,"['Thick Fat', 'Guts', 'Sheer Force']",253.8
+Azurill,Ruririルリリ,"['Thick Fat', 'Huge Power', 'Sap Sipper']",2.0
+Nosepass,Nosepassノズパス,"['Sturdy', 'Magnet Pull', 'Sand Force']",97.0
+Skitty,Enecoエネコ,"['Cute Charm', 'Normalize', 'Wonder Skin ']",11.0
+Delcatty,Enekororoエネコロロ,"['Cute Charm', 'Normalize', 'Wonder Skin ']",32.6
+Sableye,Yamiramiヤミラミ,"['Keen Eye', 'Stall', 'Prankster']",11.0
+Mawile,Kucheatクチート,"['Hyper Cutter', 'Intimidate', 'Sheer Force']",11.5
+Aron,Cokodoraココドラ,"['Sturdy', 'Rock Head', 'Heavy Metal']",60.0
+Lairon,Kodoraコドラ,"['Sturdy', 'Rock Head', 'Heavy Metal']",120.0
+Aggron,Bossgodoraボスゴドラ,"['Sturdy', 'Rock Head', 'Heavy Metal']",360.0
+Meditite,Asananアサナン,"['Pure Power', 'Telepathy']",11.2
+Medicham,Charemチャーレム,"['Pure Power', 'Telepathy']",31.5
+Electrike,Rakuraiラクライ,"['Static', 'Lightningrod', 'Minus']",15.2
+Manectric,Livoltライボルト,"['Static', 'Lightningrod', 'Minus']",40.2
+Plusle,Prasleプラスル,"['Plus', 'Lightningrod']",4.2
+Minun,Minunマイナン,"['Minus', 'Volt Absorb']",4.2
+Volbeat,Barubeatバルビート,"['Illuminate', 'Swarm', 'Prankster']",17.7
+Illumise,Illumiseイルミーゼ,"['Oblivious', 'Tinted Lens', 'Prankster']",17.7
+Roselia,Roseliaロゼリア,"['Natural Cure', 'Poison Point', 'Leaf Guard']",2.0
+Gulpin,Gokulinゴクリン,"['Liquid Ooze', 'Sticky Hold', 'Gluttony']",10.3
+Swalot,Marunoomマルノーム,"['Liquid Ooze', 'Sticky Hold', 'Gluttony']",80.0
+Carvanha,Kibanhaキバニア,"['Rough Skin', 'Speed Boost']",20.8
+Sharpedo,Samehaderサメハダー,"['Rough Skin', 'Speed Boost']",88.8
+Wailmer,Hoerukoホエルコ,"['Water Veil', 'Oblivious', 'Pressure']",130.0
+Wailord,Whalohホエルオー,"['Water Veil', 'Oblivious', 'Pressure']",398.0
+Numel,Donmelドンメル,"['Oblivious', 'Simple', 'Own Tempo']",24.0
+Camerupt,Bakuudaバクーダ,"['Magma Armor', 'Solid Rock', 'Anger Point']",220.0
+Torkoal,Cotoiseコータス,"['White Smoke', 'Drought', 'Shell Armor']",80.4
+Spoink,Banebooバネブー,"['Thick Fat', 'Own Tempo', 'Gluttony']",30.6
+Grumpig,Boopigブーピッグ,"['Thick Fat', 'Own Tempo', 'Gluttony']",71.5
+Spinda,Patcheelパッチール,"['Own Tempo', 'Tangled Feet', 'Contrary']",5.0
+Trapinch,Nuckrarナックラー,"['Hyper Cutter', 'Arena Trap', 'Sheer Force']",15.0
+Vibrava,Vibravaビブラーバ,['Levitate'],15.3
+Flygon,Flygonフライゴン,['Levitate'],82.0
+Cacnea,Saboneaサボネア,"['Sand Veil', 'Water Absorb']",51.3
+Cacturne,Noctusノクタス,"['Sand Veil', 'Water Absorb']",77.4
+Swablu,Tylttoチルット,"['Natural Cure', 'Cloud Nine']",1.2
+Altaria,Tyltalisチルタリス,"['Natural Cure', 'Cloud Nine']",20.6
+Zangoose,Zangooseザングース,"['Immunity', 'Toxic Boost']",40.3
+Seviper,Habunakeハブネーク,"['Shed Skin', 'Infiltrator']",52.5
+Lunatone,Lunatoneルナトーン,['Levitate'],168.0
+Solrock,Solrockソルロック,['Levitate'],154.0
+Barboach,Dojoachドジョッチ,"['Oblivious', 'Anticipation', 'Hydration']",1.9
+Whiscash,Namazunナマズン,"['Oblivious', 'Anticipation', 'Hydration']",23.6
+Corphish,Heiganiヘイガニ,"['Hyper Cutter', 'Shell Armor', 'Adaptability']",11.5
+Crawdaunt,Shizarigerシザリガー,"['Hyper Cutter', 'Shell Armor', 'Adaptability']",32.8
+Baltoy,Yajilonヤジロン,['Levitate'],21.5
+Claydol,Nendollネンドール,['Levitate'],108.0
+Lileep,Lilylaリリーラ,"['Suction Cups', 'Storm Drain']",23.8
+Cradily,Yuradleユレイドル,"['Suction Cups', 'Storm Drain']",60.4
+Anorith,Anopthアノプス,"['Battle Armor', 'Swift Swim']",12.5
+Armaldo,Armaldoアーマルド,"['Battle Armor', 'Swift Swim']",68.2
+Feebas,Hinbassヒンバス,"['Swift Swim', 'Oblivious', 'Adaptability']",7.4
+Milotic,Milokarossミロカロス,"['Marvel Scale', 'Competitive', 'Cute Charm']",162.0
+Castform,Powalenポワルン,['Forecast'],0.8
+Kecleon,Kakureonカクレオン,"['Color Change', 'Protean']",22.0
+Shuppet,Kagebouzuカゲボウズ,"['Insomnia', 'Frisk', 'Cursed Body']",2.3
+Banette,Juppetaジュペッタ,"['Insomnia', 'Frisk', 'Cursed Body']",12.5
+Duskull,Yomawaruヨマワル,"['Levitate', 'Frisk']",15.0
+Dusclops,Samayouruサマヨール,"['Pressure', 'Frisk']",30.6
+Tropius,Tropiusトロピウス,"['Chlorophyll', 'Solar Power', 'Harvest']",100.0
+Chimecho,Chireanチリーン,['Levitate'],1.0
+Absol,Absolアブソル,"['Pressure', 'Super Luck', 'Justified']",47.0
+Wynaut,Sohnanoソーナノ,"['Shadow Tag', 'Telepathy']",14.0
+Snorunt,Yukiwarashiユキワラシ,"['Inner Focus', 'Ice Body', 'Moody']",16.8
+Glalie,Onigohriオニゴーリ,"['Inner Focus', 'Ice Body', 'Moody']",256.5
+Spheal,Tamazarashiタマザラシ,"['Thick Fat', 'Ice Body', 'Oblivious']",39.5
+Sealeo,Todogglerトドグラー,"['Thick Fat', 'Ice Body', 'Oblivious']",87.6
+Walrein,Todoserugaトドゼルガ,"['Thick Fat', 'Ice Body', 'Oblivious']",150.6
+Clamperl,Pearluluパールル,"['Shell Armor', 'Rattled']",52.5
+Huntail,Huntailハンテール,"['Swift Swim', 'Water Veil']",27.0
+Gorebyss,Sakurabyssサクラビス,"['Swift Swim', 'Hydration']",22.6
+Relicanth,Glanthジーランス,"['Swift Swim', 'Rock Head', 'Sturdy']",23.4
+Luvdisc,Lovecusラブカス,"['Swift Swim', 'Hydration']",8.7
+Bagon,Tatsubayタツベイ,"['Rock Head', 'Sheer Force']",42.1
+Shelgon,Komoruuコモルー,"['Rock Head', 'Overcoat']",110.5
+Salamence,Bohmanderボーマンダ,"['Intimidate', 'Moxie']",102.6
+Beldum,Dumbberダンバル,"['Clear Body', 'Light Metal']",95.2
+Metang,Metangメタング,"['Clear Body', 'Light Metal']",202.5
+Metagross,Metagrossメタグロス,"['Clear Body', 'Light Metal']",550.0
+Regirock,Regirockレジロック,"['Clear Body', 'Sturdy']",230.0
+Regice,Regiceレジアイス,"['Clear Body', 'Ice Body']",175.0
+Registeel,Registeelレジスチル,"['Clear Body', 'Light Metal']",205.0
+Latias,Latiasラティアス,['Levitate'],40.0
+Latios,Latiosラティオス,['Levitate'],60.0
+Kyogre,Kyogreカイオーガ,['Drizzle'],352.0
+Groudon,Groudonグラードン,['Drought'],950.0
+Rayquaza,Rayquazaレックウザ,['Air Lock'],206.5
+Jirachi,Jirachiジラーチ,['Serene Grace'],1.1
+Deoxys,Deoxysデオキシス,['Pressure'],60.8
+Turtwig,Naetleナエトル,"['Overgrow', 'Shell Armor']",10.2
+Grotle,Hayashigameハヤシガメ,"['Overgrow', 'Shell Armor']",97.0
+Torterra,Dodaitoseドダイトス,"['Overgrow', 'Shell Armor']",310.0
+Chimchar,Hikozaruヒコザル,"['Blaze', 'Iron Fist']",6.2
+Monferno,Moukazaruモウカザル,"['Blaze', 'Iron Fist']",22.0
+Infernape,Goukazaruゴウカザル,"['Blaze', 'Iron Fist']",55.0
+Piplup,Pochamaポッチャマ,"['Torrent', 'Defiant']",5.2
+Prinplup,Pottaishiポッタイシ,"['Torrent', 'Defiant']",23.0
+Empoleon,Emperteエンペルト,"['Torrent', 'Defiant']",84.5
+Starly,Mukkuruムックル,"['Keen Eye', 'Reckless']",2.0
+Staravia,Mukubirdムクバード,"['Intimidate', 'Reckless']",15.5
+Staraptor,Mukuhawkムクホーク,"['Intimidate', 'Reckless']",24.9
+Bidoof,Bippaビッパ,"['Simple', 'Unaware', 'Moody']",20.0
+Bibarel,Beadaruビーダル,"['Simple', 'Unaware', 'Moody']",31.5
+Kricketot,Korobohshiコロボーシ,"['Shed Skin', 'Run Away']",2.2
+Kricketune,Korotockコロトック,"['Swarm', 'Technician']",25.5
+Shinx,Kolinkコリンク,"['Rivalry', 'Intimidate', 'Guts']",9.5
+Luxio,Luxioルクシオ,"['Rivalry', 'Intimidate', 'Guts']",30.5
+Luxray,Rentorarレントラー,"['Rivalry', 'Intimidate', 'Guts']",42.0
+Budew,Subomieスボミー,"['Natural Cure', 'Poison Point', 'Leaf Guard']",1.2
+Roserade,Roseradeロズレイド,"['Natural Cure', 'Poison Point', 'Technician']",14.5
+Cranidos,Zugaidosズガイドス,"['Mold Breaker', 'Sheer Force']",31.5
+Rampardos,Rampaldラムパルド,"['Mold Breaker', 'Sheer Force']",102.5
+Shieldon,Tatetopsタテトプス,"['Sturdy', 'Soundproof']",57.0
+Bastiodon,Toridepsトリデプス,"['Sturdy', 'Soundproof']",149.5
+Burmy,Minomucchiミノムッチ,"['Shed Skin', 'Overcoat']",3.4
+Wormadam,Minomadam (kusaki No Mino)ミノマダム,"['Anticipation', 'Overcoat']",6.5
+Mothim,Gamaleガーメイル,"['Swarm', 'Tinted Lens']",23.3
+Combee,Mitsuhoneyミツハニー,"['Honey Gather', 'Hustle']",5.5
+Vespiquen,Beequenビークイン,"['Pressure', 'Unnerve']",38.5
+Pachirisu,Pachirisuパチリス,"['Run Away', 'Pickup', 'Volt Absorb']",3.9
+Buizel,Buoyselブイゼル,"['Swift Swim', 'Water Veil']",29.5
+Floatzel,Floazelフローゼル,"['Swift Swim', 'Water Veil']",33.5
+Cherubi,Cherinboチェリンボ,['Chlorophyll'],3.3
+Cherrim,Cherrimチェリム,['Flower Gift'],9.3
+Shellos,Karanakushiカラナクシ,"['Sticky Hold', 'Storm Drain', 'Sand Force']",6.3
+Gastrodon,Tritodonトリトドン,"['Sticky Hold', 'Storm Drain', 'Sand Force']",29.9
+Ambipom,Etebothエテボース,"['Technician', 'Pickup', 'Skill Link']",20.3
+Drifloon,Fuwanteフワンテ,"['Aftermath', 'Unburden', 'Flare Boost']",1.2
+Drifblim,Fuwarideフワライド,"['Aftermath', 'Unburden', 'Flare Boost']",15.0
+Buneary,Mimirolミミロル,"['Run Away', 'Klutz', 'Limber']",5.5
+Lopunny,Mimilopミミロップ,"['Cute Charm', 'Klutz', 'Limber']",33.3
+Mismagius,Mumargiムウマージ,['Levitate'],4.4
+Honchkrow,Dongkarasuドンカラス,"['Insomnia', 'Super Luck', 'Moxie']",27.3
+Glameow,Nyarmarニャルマー,"['Limber', 'Own Tempo', 'Keen Eye']",3.9
+Purugly,Bunyattoブニャット,"['Thick Fat', 'Own Tempo', 'Defiant']",43.8
+Chingling,Lisyanリーシャン,['Levitate'],0.6
+Stunky,Skunpuuスカンプー,"['Stench', 'Aftermath', 'Keen Eye']",19.2
+Skuntank,Skutankスカタンク,"['Stench', 'Aftermath', 'Keen Eye']",38.0
+Bronzor,Dohmirrorドーミラー,"['Levitate', 'Heatproof', 'Heavy Metal']",60.5
+Bronzong,Dohtakunドータクン,"['Levitate', 'Heatproof', 'Heavy Metal']",187.0
+Bonsly,Usohachiウソハチ,"['Sturdy', 'Rock Head', 'Rattled']",15.0
+Mime Jr.,Maneneマネネ,"['Soundproof', 'Filter', 'Technician']",13.0
+Happiny,Pinpukuピンプク,"['Natural Cure', 'Serene Grace', 'Friend Guard']",24.4
+Chatot,Perapペラップ,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",1.9
+Spiritomb,Mikarugeミカルゲ,"['Pressure', 'Infiltrator']",108.0
+Gible,Fukamaruフカマル,"['Sand Veil', 'Rough Skin']",20.5
+Gabite,Gabiteガバイト,"['Sand Veil', 'Rough Skin']",56.0
+Garchomp,Gaburiasガブリアス,"['Sand Veil', 'Rough Skin']",95.0
+Munchlax,Gonbeゴンベ,"['Pickup', 'Thick Fat', 'Gluttony']",105.0
+Riolu,Rioluリオル,"['Steadfast', 'Inner Focus', 'Prankster']",20.2
+Lucario,Lucarioルカリオ,"['Steadfast', 'Inner Focus', 'Justified']",54.0
+Hippopotas,Hippopotasヒポポタス,"['Sand Stream', 'Sand Force']",49.5
+Hippowdon,Kabaldonカバルドン,"['Sand Stream', 'Sand Force']",300.0
+Skorupi,Scorupiスコルピ,"['Battle Armor', 'Sniper', 'Keen Eye']",12.0
+Drapion,Dorapionドラピオン,"['Battle Armor', 'Sniper', 'Keen Eye']",61.5
+Croagunk,Gureggruグレッグル,"['Anticipation', 'Dry Skin', 'Poison Touch']",23.0
+Toxicroak,Dokurogドクロッグ,"['Anticipation', 'Dry Skin', 'Poison Touch']",44.4
+Carnivine,Muskippaマスキッパ,['Levitate'],27.0
+Finneon,Keikouoケイコウオ,"['Swift Swim', 'Storm Drain', 'Water Veil']",7.0
+Lumineon,Neolantネオラント,"['Swift Swim', 'Storm Drain', 'Water Veil']",24.0
+Mantyke,Tamantaタマンタ,"['Swift Swim', 'Water Absorb', 'Water Veil']",65.0
+Snover,Yukikaburiユキカブリ,"['Snow Warning', 'Soundproof']",50.5
+Abomasnow,Yukinoohユキノオー,"['Snow Warning', 'Soundproof']",135.5
+Weavile,Manyulaマニューラ,"['Pressure', 'Pickpocket']",34.0
+Magnezone,Jibacoilジバコイル,"['Magnet Pull', 'Sturdy', 'Analytic']",180.0
+Lickilicky,Berobeltベロベルト,"['Own Tempo', 'Oblivious', 'Cloud Nine']",140.0
+Rhyperior,Dosidonドサイドン,"['Lightningrod', 'Solid Rock', 'Reckless']",282.8
+Tangrowth,Mojumboモジャンボ,"['Chlorophyll', 'Leaf Guard', 'Regenerator']",128.6
+Electivire,Elekibleエレキブル,"['Motor Drive', 'Vital Spirit']",138.6
+Magmortar,Booburnブーバーン,"['Flame Body', 'Vital Spirit']",68.0
+Togekiss,Togekissトゲキッス,"['Hustle', 'Serene Grace', 'Super Luck']",38.0
+Yanmega,Megayanmaメガヤンマ,"['Speed Boost', 'Tinted Lens', 'Frisk']",51.5
+Leafeon,Leafiaリーフィア,"['Leaf Guard', 'Chlorophyll']",25.5
+Glaceon,Glaciaグレイシア,"['Snow Cloak', 'Ice Body']",25.9
+Gliscor,Glionグライオン,"['Hyper Cutter', 'Sand Veil', 'Poison Heal']",42.5
+Mamoswine,Mammooマンムー,"['Oblivious', 'Snow Cloak', 'Thick Fat']",291.0
+Porygon-Z,Porygon-zポリゴンＺ,"['Adaptability', 'Download', 'Analytic']",34.0
+Gallade,Erureidoエルレイド,"['Steadfast', 'Justified']",52.0
+Probopass,Dainoseダイノーズ,"['Sturdy', 'Magnet Pull', 'Sand Force']",340.0
+Dusknoir,Yonoirヨノワール,"['Pressure', 'Frisk']",106.6
+Froslass,Yukimenokoユキメノコ,"['Snow Cloak', 'Cursed Body']",26.6
+Rotom,Rotomロトム,['Levitate'],0.3
+Uxie,Yuxieユクシー,['Levitate'],0.3
+Mesprit,Emritエムリット,['Levitate'],0.3
+Azelf,Agnomeアグノム,['Levitate'],0.3
+Dialga,Dialgaディアルガ,"['Pressure', 'Telepathy']",683.0
+Palkia,Palkiaパルキア,"['Pressure', 'Telepathy']",336.0
+Heatran,Heatranヒードラン,"['Flash Fire', 'Flame Body']",430.0
+Regigigas,Regigigasレジギガス,['Slow Start'],420.0
+Giratina,Giratina (another Forme)ギラティナ,"['Pressure', 'Telepathy', 'Levitate']",750.0
+Cresselia,Cresseliaクレセリア,['Levitate'],85.6
+Phione,Phioneフィオネ,['Hydration'],3.1
+Manaphy,Manaphyマナフィ,['Hydration'],1.4
+Darkrai,Darkraiダークライ,['Bad Dreams'],50.5
+Shaymin,Shaymin (sky Forme)シェイミ,"['Natural Cure', 'Serene Grace']",2.1
+Arceus,Arceusアルセウス,['Multitype'],320.0
+Victini,Victiniビクティニ,['Victory Star'],4.0
+Snivy,Tsutarjaツタージャ,"['Overgrow', 'Contrary']",8.1
+Servine,Janovyジャノビー,"['Overgrow', 'Contrary']",16.0
+Serperior,Jalordaジャローダ,"['Overgrow', 'Contrary']",63.0
+Tepig,Pokabuポカブ,"['Blaze', 'Thick Fat']",9.9
+Pignite,Chaobooチャオブー,"['Blaze', 'Thick Fat']",55.5
+Emboar,Enbuohエンブオー,"['Blaze', 'Reckless']",150.0
+Oshawott,Mijumaruミジュマル,"['Torrent', 'Shell Armor']",5.9
+Dewott,Futachimaruフタチマル,"['Torrent', 'Shell Armor']",24.5
+Samurott,Daikenkiダイケンキ,"['Torrent', 'Shell Armor']",94.6
+Patrat,Minezumiミネズミ,"['Run Away', 'Keen Eye', 'Analytic']",11.6
+Watchog,Miruhogミルホッグ,"['Illuminate', 'Keen Eye', 'Analytic']",27.0
+Lillipup,Yorterrieヨーテリー,"['Vital Spirit', 'Pickup', 'Run Away']",4.1
+Herdier,Herderrieハーデリア,"['Intimidate', 'Sand Rush', 'Scrappy']",14.7
+Stoutland,Moolandムーランド,"['Intimidate', 'Sand Rush', 'Scrappy']",61.0
+Purrloin,Choronekoチョロネコ,"['Limber', 'Unburden', 'Prankster']",10.1
+Liepard,Lepardasレパルダス,"['Limber', 'Unburden', 'Prankster']",37.5
+Pansage,Yanappuヤナップ,"['Gluttony', 'Overgrow']",10.5
+Simisage,Yanakkieヤナッキー,"['Gluttony', 'Overgrow']",30.5
+Pansear,Baoppuバオップ,"['Gluttony', 'Blaze']",11.0
+Simisear,Baokkieバオッキー,"['Gluttony', 'Blaze']",28.0
+Panpour,Hiyappuヒヤップ,"['Gluttony', 'Torrent']",13.5
+Simipour,Hiyakkieヒヤッキー,"['Gluttony', 'Torrent']",29.0
+Munna,Munnaムンナ,"['Forewarn', 'Synchronize', 'Telepathy']",23.3
+Musharna,Musharnaムシャーナ,"['Forewarn', 'Synchronize', 'Telepathy']",60.5
+Pidove,Mamepatoマメパト,"['Big Pecks', 'Super Luck', 'Rivalry']",2.1
+Tranquill,Hatobohハトーボー,"['Big Pecks', 'Super Luck', 'Rivalry']",15.0
+Unfezant,Kenhallowケンホロウ,"['Big Pecks', 'Super Luck', 'Rivalry']",29.0
+Blitzle,Shimamaシママ,"['Lightningrod', 'Motor Drive', 'Sap Sipper']",29.8
+Zebstrika,Zebraikaゼブライカ,"['Lightningrod', 'Motor Drive', 'Sap Sipper']",79.5
+Roggenrola,Dangoroダンゴロ,"['Sturdy', 'Weak Armor', 'Sand Force']",18.0
+Boldore,Gantleガントル,"['Sturdy', 'Weak Armor', 'Sand Force']",102.0
+Gigalith,Gigaiathギガイアス,"['Sturdy', 'Sand Stream', 'Sand Force']",260.0
+Woobat,Koromoriコロモリ,"['Unaware', 'Klutz', 'Simple']",2.1
+Swoobat,Kokoromoriココロモリ,"['Unaware', 'Klutz', 'Simple']",10.5
+Drilbur,Mogurewモグリュー,"['Sand Rush', 'Sand Force', 'Mold Breaker']",8.5
+Excadrill,Doryuzuドリュウズ,"['Sand Rush', 'Sand Force', 'Mold Breaker']",40.4
+Audino,Tabunneタブンネ,"['Healer', 'Regenerator', 'Klutz']",31.0
+Timburr,Dokkorerドッコラー,"['Guts', 'Sheer Force', 'Iron Fist']",12.5
+Gurdurr,Dotekkotsuドテッコツ,"['Guts', 'Sheer Force', 'Iron Fist']",40.0
+Conkeldurr,Roubushinローブシン,"['Guts', 'Sheer Force', 'Iron Fist']",87.0
+Tympole,Otamaroオタマロ,"['Swift Swim', 'Hydration', 'Water Absorb']",4.5
+Palpitoad,Gamagaruガマガル,"['Swift Swim', 'Hydration', 'Water Absorb']",17.0
+Seismitoad,Gamagerogeガマゲロゲ,"['Swift Swim', 'Poison Touch', 'Water Absorb']",62.0
+Throh,Nagekiナゲキ,"['Guts', 'Inner Focus', 'Mold Breaker']",55.5
+Sawk,Dagekiダゲキ,"['Sturdy', 'Inner Focus', 'Mold Breaker']",51.0
+Sewaddle,Kurumiruクルミル,"['Swarm', 'Chlorophyll', 'Overcoat']",2.5
+Swadloon,Kurumayuクルマユ,"['Leaf Guard', 'Chlorophyll', 'Overcoat']",7.3
+Leavanny,Hahakomoriハハコモリ,"['Swarm', 'Chlorophyll', 'Overcoat']",20.5
+Venipede,Fushideフシデ,"['Poison Point', 'Swarm', 'Speed Boost']",5.3
+Whirlipede,Wheegaホイーガ,"['Poison Point', 'Swarm', 'Speed Boost']",58.5
+Scolipede,Pendrorペンドラー,"['Poison Point', 'Swarm', 'Speed Boost']",200.5
+Cottonee,Monmenモンメン,"['Prankster', 'Infiltrator', 'Chlorophyll']",0.6
+Whimsicott,Elfuunエルフーン,"['Prankster', 'Infiltrator', 'Chlorophyll']",6.6
+Petilil,Churineチュリネ,"['Chlorophyll', 'Own Tempo', 'Leaf Guard']",6.6
+Lilligant,Dredearドレディア,"['Chlorophyll', 'Own Tempo', 'Leaf Guard']",16.3
+Basculin,Bassraoバスラオ,"['Reckless', 'Rock Head', 'Adaptability', 'Mold Breaker']",18.0
+Sandile,Megurocoメグロコ,"['Intimidate', 'Moxie', 'Anger Point']",15.2
+Krokorok,Waruvileワルビル,"['Intimidate', 'Moxie', 'Anger Point']",33.4
+Krookodile,Waruvialワルビアル,"['Intimidate', 'Moxie', 'Anger Point']",96.3
+Darumaka,Darumakkaダルマッカ,"['Hustle', 'Inner Focus']",37.5
+Darmanitan,Hihidarumaヒヒダルマ,"['Sheer Force', 'Zen Mode']",92.9
+Maractus,Maracacchiマラカッチ,"['Water Absorb', 'Chlorophyll', 'Storm Drain']",28.0
+Dwebble,Ishizumaiイシズマイ,"['Sturdy', 'Shell Armor', 'Weak Armor']",14.5
+Crustle,Iwapalaceイワパレス,"['Sturdy', 'Shell Armor', 'Weak Armor']",200.0
+Scraggy,Zurugguズルッグ,"['Shed Skin', 'Moxie', 'Intimidate']",11.8
+Scrafty,Zuruzukinズルズキン,"['Shed Skin', 'Moxie', 'Intimidate']",30.0
+Sigilyph,Symbolerシンボラー,"['Wonder Skin ', 'Magic Guard', 'Tinted Lens']",14.0
+Yamask,Desumasuデスマス,['Mummy'],1.5
+Cofagrigus,Desukarnデスカーン,['Mummy'],76.5
+Tirtouga,Protogaプロトーガ,"['Solid Rock', 'Sturdy', 'Swift Swim']",16.5
+Carracosta,Abagouraアバゴーラ,"['Solid Rock', 'Sturdy', 'Swift Swim']",81.0
+Archen,Archenアーケン,['Defeatist'],9.5
+Archeops,Archeosアーケオス,['Defeatist'],32.0
+Trubbish,Yabukuronヤブクロン,"['Stench', 'Sticky Hold', 'Aftermath']",31.0
+Garbodor,Dustdasダストダス,"['Stench', 'Weak Armor', 'Aftermath']",107.3
+Zorua,Zoruaゾロア,['Illusion'],12.5
+Zoroark,Zoroarkゾロアーク,['Illusion'],81.1
+Minccino,Chillarmyチラーミィ,"['Cute Charm', 'Technician', 'Skill Link']",5.8
+Cinccino,Chillaccinoチラチーノ,"['Cute Charm', 'Technician', 'Skill Link']",7.5
+Gothita,Gothimuゴチム,"['Frisk', 'Competitive', 'Shadow Tag']",5.8
+Gothorita,Gothimiruゴチミル,"['Frisk', 'Competitive', 'Shadow Tag']",18.0
+Gothitelle,Gothiruselleゴチルゼル,"['Frisk', 'Competitive', 'Shadow Tag']",44.0
+Solosis,Uniranユニラン,"['Overcoat', 'Magic Guard', 'Regenerator']",1.0
+Duosion,Doublanダブラン,"['Overcoat', 'Magic Guard', 'Regenerator']",8.0
+Reuniclus,Lanculusランクルス,"['Overcoat', 'Magic Guard', 'Regenerator']",20.1
+Ducklett,Koaruhieコアルヒー,"['Keen Eye', 'Big Pecks', 'Hydration']",5.5
+Swanna,Swannaスワンナ,"['Keen Eye', 'Big Pecks', 'Hydration']",24.2
+Vanillite,Vanipetiバニプッチ,"['Ice Body', 'Snow Cloak', 'Weak Armor']",5.7
+Vanillish,Vanirichバニリッチ,"['Ice Body', 'Snow Cloak', 'Weak Armor']",41.0
+Vanilluxe,Baivanillaバイバニラ,"['Ice Body', 'Snow Warning', 'Weak Armor']",57.5
+Deerling,Shikijikaシキジカ,"['Chlorophyll', 'Sap Sipper', 'Serene Grace']",19.5
+Sawsbuck,Mebukijikaメブキジカ,"['Chlorophyll', 'Sap Sipper', 'Serene Grace']",92.5
+Emolga,Emongaエモンガ,"['Static', 'Motor Drive']",5.0
+Karrablast,Kaburumoカブルモ,"['Swarm', 'Shed Skin', 'No Guard']",5.9
+Escavalier,Chevargoシュバルゴ,"['Swarm', 'Shell Armor', 'Overcoat']",33.0
+Foongus,Tamagetakeタマゲタケ,"['Effect Spore', 'Regenerator']",1.0
+Amoonguss,Morobareruモロバレル,"['Effect Spore', 'Regenerator']",10.5
+Frillish,Pururillプルリル,"['Water Absorb', 'Cursed Body', 'Damp']",33.0
+Jellicent,Burungelブルンゲル,"['Water Absorb', 'Cursed Body', 'Damp']",135.0
+Alomomola,Mamanbouママンボウ,"['Healer', 'Hydration', 'Regenerator']",31.6
+Joltik,Bachuruバチュル,"['Compoundeyes', 'Unnerve', 'Swarm']",0.6
+Galvantula,Dentulaデンチュラ,"['Compoundeyes', 'Unnerve', 'Swarm']",14.3
+Ferroseed,Tesseedテッシード,['Iron Barbs'],18.8
+Ferrothorn,Nutreyナットレイ,"['Iron Barbs', 'Anticipation']",110.0
+Klink,Giaruギアル,"['Plus', 'Minus', 'Clear Body']",21.0
+Klang,Gigiaruギギアル,"['Plus', 'Minus', 'Clear Body']",51.0
+Klinklang,Gigigiaruギギギアル,"['Plus', 'Minus', 'Clear Body']",81.0
+Tynamo,Shibishirasuシビシラス,['Levitate'],0.3
+Eelektrik,Shibibeelシビビール,['Levitate'],22.0
+Eelektross,Shibirudonシビルドン,['Levitate'],80.5
+Elgyem,Ligrayリグレー,"['Telepathy', 'Synchronize', 'Analytic']",9.0
+Beheeyem,Ohbemオーベム,"['Telepathy', 'Synchronize', 'Analytic']",34.5
+Litwick,Hitomoshiヒトモシ,"['Flash Fire', 'Flame Body', 'Infiltrator']",3.1
+Lampent,Lamplerランプラー,"['Flash Fire', 'Flame Body', 'Infiltrator']",13.0
+Chandelure,Chandelaシャンデラ,"['Flash Fire', 'Flame Body', 'Infiltrator']",34.3
+Axew,Kibagoキバゴ,"['Rivalry', 'Mold Breaker', 'Unnerve']",18.0
+Fraxure,Onondoオノンド,"['Rivalry', 'Mold Breaker', 'Unnerve']",36.0
+Haxorus,Ononokusオノノクス,"['Rivalry', 'Mold Breaker', 'Unnerve']",105.5
+Cubchoo,Kumasyunクマシュン,"['Snow Cloak', 'Slush Rush', 'Rattled']",8.5
+Beartic,Tunbearツンベアー,"['Snow Cloak', 'Slush Rush', 'Swift Swim']",260.0
+Cryogonal,Freegeoフリージオ,['Levitate'],148.0
+Shelmet,Chobomakiチョボマキ,"['Hydration', 'Shell Armor', 'Overcoat']",7.7
+Accelgor,Agilderアギルダー,"['Hydration', 'Sticky Hold', 'Unburden']",25.3
+Stunfisk,Maggyoマッギョ,"['Static', 'Limber', 'Sand Veil']",11.0
+Mienfoo,Kojofuコジョフー,"['Inner Focus', 'Regenerator', 'Reckless']",20.0
+Mienshao,Kojondoコジョンド,"['Inner Focus', 'Regenerator', 'Reckless']",35.5
+Druddigon,Crimganクリムガン,"['Rough Skin', 'Sheer Force', 'Mold Breaker']",139.0
+Golett,Gobitゴビット,"['Iron Fist', 'Klutz', 'No Guard']",92.0
+Golurk,Goloogゴルーグ,"['Iron Fist', 'Klutz', 'No Guard']",330.0
+Pawniard,Komatanaコマタナ,"['Defiant', 'Inner Focus', 'Pressure']",10.2
+Bisharp,Kirikizanキリキザン,"['Defiant', 'Inner Focus', 'Pressure']",70.0
+Bouffalant,Buffronバッフロン,"['Reckless', 'Sap Sipper', 'Soundproof']",94.6
+Rufflet,Washibonワシボン,"['Keen Eye', 'Sheer Force', 'Hustle']",10.5
+Braviary,Warrgleウォーグル,"['Keen Eye', 'Sheer Force', 'Defiant']",41.0
+Vullaby,Valchaiバルチャイ,"['Big Pecks', 'Overcoat', 'Weak Armor']",9.0
+Mandibuzz,Vulginaバルジーナ,"['Big Pecks', 'Overcoat', 'Weak Armor']",39.5
+Heatmor,Kuitaranクイタラン,"['Gluttony', 'Flash Fire', 'White Smoke']",58.0
+Durant,Aiantアイアント,"['Swarm', 'Hustle', 'Truant']",33.0
+Deino,Monozuモノズ,['Hustle'],17.3
+Zweilous,Diheadジヘッド,['Hustle'],50.0
+Hydreigon,Sazandoraサザンドラ,['Levitate'],160.0
+Larvesta,Merlarvaメラルバ,"['Flame Body', 'Swarm']",28.8
+Volcarona,Ulgamothウルガモス,"['Flame Body', 'Swarm']",46.0
+Cobalion,Cobalonコバルオン,['Justified'],250.0
+Terrakion,Terrakionテラキオン,['Justified'],260.0
+Virizion,Virizionビリジオン,['Justified'],200.0
+Tornadus,Tornelos (keshin Forme)トルネロス,"['Prankster', 'Defiant', 'Regenerator']",63.0
+Thundurus,Voltolos (keshin Forme)ボルトロス,"['Prankster', 'Defiant', 'Volt Absorb']",61.0
+Reshiram,Reshiramレシラム,['Turboblaze'],330.0
+Zekrom,Zekromゼクロム,['Teravolt'],345.0
+Landorus,Landlos (keshin Forme)ランドロス,"['Sand Force', 'Sheer Force', 'Intimidate']",68.0
+Kyurem,Kyuremキュレム,"['Pressure', 'Teravolt', 'Turboblaze']",325.0
+Keldeo,Keldeo (itsumo No Sugata)ケルディオ,['Justified'],48.5
+Meloetta,Meloetta (step Forme)メロエッタ,['Serene Grace'],6.5
+Genesect,Genesectゲノセクト,['Download'],82.5
+Chespin,Harimaronハリマロン,"['Overgrow', 'Bulletproof']",9.0
+Quilladin,Hariborgハリボーグ,"['Overgrow', 'Bulletproof']",29.0
+Chesnaught,Brigarronブリガロン,"['Overgrow', 'Bulletproof']",90.0
+Fennekin,Fokkoフォッコ,"['Blaze', 'Magician']",9.4
+Braixen,Tairenarテールナー,"['Blaze', 'Magician']",14.5
+Delphox,Mahoxyマフォクシー,"['Blaze', 'Magician']",39.0
+Froakie,Keromatsuケロマツ,"['Torrent', 'Protean']",7.0
+Frogadier,Gekogashiraゲコガシラ,"['Torrent', 'Protean']",10.9
+Greninja,Gekkougaゲッコウガ,"['Torrent', 'Protean', 'Battle Bond']",40.0
+Bunnelby,Horubeeホルビー,"['Pickup', 'Cheek Pouch', 'Huge Power']",5.0
+Diggersby,Horudoホルード,"['Pickup', 'Cheek Pouch', 'Huge Power']",42.4
+Fletchling,Yayakomaヤヤコマ,"['Big Pecks', 'Gale Wings']",1.7
+Fletchinder,Hinoyakomaヒノヤコマ,"['Flame Body', 'Gale Wings']",16.0
+Talonflame,Fiarrowファイアロー,"['Flame Body', 'Gale Wings']",24.5
+Scatterbug,Kofukimushiコフキムシ,"['Shield Dust', 'Compoundeyes', 'Friend Guard']",2.5
+Spewpa,Kofuuraiコフーライ,"['Shed Skin', 'Friend Guard']",8.4
+Vivillon,Viviyonビビヨン,"['Shield Dust', 'Compoundeyes', 'Friend Guard']",17.0
+Litleo,Shishikoシシコ,"['Rivalry', 'Unnerve', 'Moxie']",13.5
+Pyroar,Kaenjishiカエンジシ,"['Rivalry', 'Unnerve', 'Moxie']",81.5
+Flabébé,Flabebeフラベベ,"['Flower Veil', 'Symbiosis']",0.1
+Floette,Floetteフラエッテ,"['Flower Veil', 'Symbiosis']",0.9
+Florges,Florgesフラージェス,"['Flower Veil', 'Symbiosis']",10.0
+Skiddo,Meecleメェークル,"['Sap Sipper', 'Grass Pelt']",31.0
+Gogoat,Gogoatゴーゴート,"['Sap Sipper', 'Grass Pelt']",91.0
+Pancham,Yanchamヤンチャム,"['Iron Fist', 'Mold Breaker', 'Scrappy']",8.0
+Pangoro,Gorondaゴロンダ,"['Iron Fist', 'Mold Breaker', 'Scrappy']",136.0
+Furfrou,Trimmienトリミアン,['Fur Coat'],28.0
+Espurr,Nyasperニャスパー,"['Keen Eye', 'Infiltrator', 'Own Tempo']",3.5
+Meowstic,Nyaonixニャオニクス,"['Keen Eye', 'Infiltrator', 'Prankster', 'Competitive']",8.5
+Honedge,Hitotsukiヒトツキ,['No Guard'],2.0
+Doublade,Nidangillニダンギル,['No Guard'],4.5
+Aegislash,Gillgardギルガルド,['Stance Change'],53.0
+Spritzee,Shushupuシュシュプ,"['Healer', 'Aroma Veil']",0.5
+Aromatisse,Frefuwanフレフワン,"['Healer', 'Aroma Veil']",15.5
+Swirlix,Peroppafuペロッパフ,"['Sweet Veil', 'Unburden']",3.5
+Slurpuff,Peroreamペロリーム,"['Sweet Veil', 'Unburden']",5.0
+Inkay,Maaiikaマーイーカ,"['Contrary', 'Suction Cups', 'Infiltrator']",3.5
+Malamar,Calamaneroカラマネロ,"['Contrary', 'Suction Cups', 'Infiltrator']",47.0
+Binacle,Kameteteカメテテ,"['Tough Claws', 'Sniper', 'Pickpocket']",31.0
+Barbaracle,Gamenodesガメノデス,"['Tough Claws', 'Sniper', 'Pickpocket']",96.0
+Skrelp,Kuzumoクズモー,"['Poison Point', 'Poison Touch', 'Adaptability']",7.3
+Dragalge,Dramidoroドラミドロ,"['Poison Point', 'Poison Touch', 'Adaptability']",81.5
+Clauncher,Udeppouウデッポウ,['Mega Launcher'],8.3
+Clawitzer,Blosterブロスター,['Mega Launcher'],35.3
+Helioptile,Erikiteruエリキテル,"['Dry Skin', 'Sand Veil', 'Solar Power']",6.0
+Heliolisk,Elezardエレザード,"['Dry Skin', 'Sand Veil', 'Solar Power']",21.0
+Tyrunt,Chigorasチゴラス,"['Strong Jaw', 'Sturdy']",26.0
+Tyrantrum,Gachigorasガチゴラス,"['Strong Jaw', 'Rock Head']",270.0
+Amaura,Amarusアマルス,"['Refrigerate', 'Snow Warning']",25.2
+Aurorus,Amarurugaアマルルガ,"['Refrigerate', 'Snow Warning']",225.0
+Sylveon,Nymphiaニンフィア,"['Cute Charm', 'Pixilate']",23.5
+Hawlucha,Luchabullルチャブル,"['Limber', 'Unburden', 'Mold Breaker']",21.5
+Dedenne,Dedenneデデンネ,"['Cheek Pouch', 'Pickup', 'Plus']",2.2
+Carbink,Melecieメレシー,"['Clear Body', 'Sturdy']",5.7
+Goomy,Numeraヌメラ,"['Sap Sipper', 'Hydration', 'Gooey']",2.8
+Sliggoo,Numeilヌメイル,"['Sap Sipper', 'Hydration', 'Gooey']",17.5
+Goodra,Numelgonヌメルゴン,"['Sap Sipper', 'Hydration', 'Gooey']",150.5
+Klefki,Cleffyクレッフィ,"['Prankster', 'Magician']",3.0
+Phantump,Bokureiボクレー,"['Natural Cure', 'Frisk', 'Harvest']",7.0
+Trevenant,Ohrotオーロット,"['Natural Cure', 'Frisk', 'Harvest']",71.0
+Pumpkaboo,Bakecchaバケッチャ,"['Pickup', 'Frisk', 'Insomnia']",15.0
+Gourgeist,Pumpjinパンプジン,"['Pickup', 'Frisk', 'Insomnia']",39.0
+Bergmite,Kachikohruカチコール,"['Own Tempo', 'Ice Body', 'Sturdy']",99.5
+Avalugg,Crebaseクレベース,"['Own Tempo', 'Ice Body', 'Sturdy']",505.0
+Noibat,Onbatオンバット,"['Frisk', 'Infiltrator', 'Telepathy']",8.0
+Noivern,Onvernオンバーン,"['Frisk', 'Infiltrator', 'Telepathy']",85.0
+Xerneas,Xerneasゼルネアス,['Fairy Aura'],215.0
+Yveltal,Yveltalイベルタル,['Dark Aura'],203.0
+Zygarde,Zygarde (10% Forme)ジガルデ,"['Aura Break', 'Power Construct']",284.6
+Diancie,Diancieディアンシー,['Clear Body'],8.8
+Hoopa,Hoopa (imashimerareshi Hoopa)フーパ,['Magician'],
+Volcanion,Volcanionボルケニオン,['Water Absorb'],195.0
+Rowlet,Mokurohモクロー,"['Overgrow', 'Long Reach']",1.5
+Dartrix,Fukuthrowフクスロー,"['Overgrow', 'Long Reach']",16.0
+Decidueye,Junaiperジュナイパー,"['Overgrow', 'Long Reach']",36.6
+Litten,Nyabbyニャビー,"['Blaze', 'Intimidate']",4.3
+Torracat,Nyaheatニャヒート,"['Blaze', 'Intimidate']",25.0
+Incineroar,Gaogaenガオガエン,"['Blaze', 'Intimidate']",83.0
+Popplio,Ashimariアシマリ,"['Torrent', 'Liquid Voice']",7.5
+Brionne,Osyamariオシャマリ,"['Torrent', 'Liquid Voice']",17.5
+Primarina,Ashireneアシレーヌ,"['Torrent', 'Liquid Voice']",44.0
+Pikipek,Tsutsukeraツツケラ,"['Keen Eye', 'Skill Link', 'Pickup']",1.2
+Trumbeak,Kerarappaケララッパ,"['Keen Eye', 'Skill Link', 'Pickup']",14.8
+Toucannon,Dodekabashiドデカバシ,"['Keen Eye', 'Skill Link', 'Sheer Force']",26.0
+Yungoos,Youngooseヤングース,"['Stakeout', 'Strong Jaw', 'Adaptability']",6.0
+Gumshoos,Dekagooseデカグース,"['Stakeout', 'Strong Jaw', 'Adaptability']",14.2
+Grubbin,Agojimushiアゴジムシ,['Swarm'],4.4
+Charjabug,Dendimushiデンヂムシ,['Battery'],10.5
+Vikavolt,Kuwagannonクワガノン,['Levitate'],45.0
+Crabrawler,Makenkaniマケンカニ,"['Hyper Cutter', 'Iron Fist', 'Anger Point']",7.0
+Crabominable,Kekenkaniケケンカニ,"['Hyper Cutter', 'Iron Fist', 'Anger Point']",180.0
+Oricorio,Odoridori (pachipachi Style)オドリドリ,['Dancer'],3.4
+Cutiefly,Abulyアブリー,"['Honey Gather', 'Shield Dust', 'Sweet Veil']",0.2
+Ribombee,Aburibbonアブリボン,"['Honey Gather', 'Shield Dust', 'Sweet Veil']",0.5
+Rockruff,Iwankoイワンコ,"['Keen Eye', 'Vital Spirit', 'Steadfast']",9.2
+Lycanroc,Lugarugan (mahiru No Sugata)ルガルガン,"['Keen Eye', 'Sand Rush', 'Steadfast', 'Keen Eye', 'Vital Spirit', 'No Guard']",
+Wishiwashi,Yowashi (tandoku No Sugata)ヨワシ,['Schooling'],0.3
+Mareanie,Hidoideヒドイデ,"['Merciless', 'Limber', 'Regenerator']",8.0
+Toxapex,Dohidoideドヒドイデ,"['Merciless', 'Limber', 'Regenerator']",14.5
+Mudbray,Dorobankoドロバンコ,"['Own Tempo', 'Stamina', 'Inner Focus']",110.0
+Mudsdale,Banbadoroバンバドロ,"['Own Tempo', 'Stamina', 'Inner Focus']",920.0
+Dewpider,Shizukumoシズクモ,"['Water Bubble', 'Water Absorb']",4.0
+Araquanid,Onishizukumoオニシズクモ,"['Water Bubble', 'Water Absorb']",82.0
+Fomantis,Karikiriカリキリ,"['Leaf Guard', 'Contrary']",1.5
+Lurantis,Lalantesラランテス,"['Leaf Guard', 'Contrary']",18.5
+Morelull,Nemasyuネマシュ,"['Illuminate', 'Effect Spore', 'Rain Dish']",1.5
+Shiinotic,Mashadeマシェード,"['Illuminate', 'Effect Spore', 'Rain Dish']",11.5
+Salandit,Yatoumoriヤトウモリ,"['Corrosion', 'Oblivious']",4.8
+Salazzle,Ennewtエンニュート,"['Corrosion', 'Oblivious']",22.2
+Stufful,Nuikogumaヌイコグマ,"['Fluffy', 'Klutz', 'Cute Charm']",6.8
+Bewear,Kiterugumaキテルグマ,"['Fluffy', 'Klutz', 'Unnerve']",135.0
+Bounsweet,Amakajiアマカジ,"['Leaf Guard', 'Oblivious', 'Sweet Veil']",3.2
+Steenee,Amamaikoアママイコ,"['Leaf Guard', 'Oblivious', 'Sweet Veil']",8.2
+Tsareena,Amajoアマージョ,"['Leaf Guard', 'Queenly Majesty', 'Sweet Veil']",21.4
+Comfey,Cuwawaキュワワー,"['Flower Veil', 'Triage', 'Natural Cure']",0.3
+Oranguru,Yareyuutanヤレユータン,"['Inner Focus', 'Telepathy', 'Symbiosis']",76.0
+Passimian,Nagetukesaruナゲツケサル,"['Receiver', 'Defiant']",82.8
+Wimpod,Kosokumushiコソクムシ,['Wimp Out'],12.0
+Golisopod,Gusokumushaグソクムシャ,['Emergency Exit'],108.0
+Sandygast,Sunabaスナバァ,"['Water Compaction', 'Sand Veil']",70.0
+Palossand,Sirodethnaシロデスナ,"['Water Compaction', 'Sand Veil']",250.0
+Pyukumuku,Namakobushiナマコブシ,"['Innards Out', 'Unaware']",1.2
+Type: Null,Type: Nullタイプ：ヌル,['Battle Armor'],120.5
+Silvally,Silvadyシルヴァディ,['RKS System'],100.5
+Minior,Metenoメテノ,['Shields Down'],40.0
+Komala,Nekkoaraネッコアラ,['Comatose'],19.9
+Turtonator,Bakugamesバクガメス,['Shell Armor'],212.0
+Togedemaru,Togedemaruトゲデマル,"['Iron Barbs', 'Lightningrod', 'Sturdy']",3.3
+Mimikyu,Mimikkyuミミッキュ,['Disguise'],0.7
+Bruxish,Hagigishiriハギギシリ,"['Dazzling', 'Strong Jaw', 'Wonder Skin ']",19.0
+Drampa,Jijilongジジーロン,"['Berserk', 'Sap Sipper', 'Cloud Nine']",185.0
+Dhelmise,Dadarinダダリン,['Steelworker'],210.0
+Jangmo-o,Jyarakoジャラコ,"['Bulletproof', 'Soundproof', 'Overcoat']",29.7
+Hakamo-o,Jyarangoジャランゴ,"['Bulletproof', 'Soundproof', 'Overcoat']",47.0
+Kommo-o,Jyararangaジャラランガ,"['Bulletproof', 'Soundproof', 'Overcoat']",78.2
+Tapu Koko,Kapu-kokekoカプ・コケコ,"['Electric Surge', 'Telepathy']",20.5
+Tapu Lele,Kapu-tetefuカプ・テテフ,"['Psychic Surge', 'Telepathy']",18.6
+Tapu Bulu,Kapu-bululカプ・ブルル,"['Grassy Surge', 'Telepathy']",45.5
+Tapu Fini,Kapu-rehireカプ・レヒレ,"['Misty Surge', 'Telepathy']",21.2
+Cosmog,Cosmogコスモッグ,['Unaware'],0.1
+Cosmoem,Cosmovumコスモウム,['Sturdy'],999.9
+Solgaleo,Solgaleoソルガレオ,['Full Metal Body'],230.0
+Lunala,Lunalaルナアーラ,['Shadow Shield'],120.0
+Nihilego,Uturoidウツロイド,['Beast Boost'],55.5
+Buzzwole,Massivoonマッシブーン,['Beast Boost'],333.6
+Pheromosa,Pheroacheフェローチェ,['Beast Boost'],25.0
+Xurkitree,Denjyumokuデンジュモク,['Beast Boost'],100.0
+Celesteela,Tekkaguyaテッカグヤ,['Beast Boost'],999.9
+Kartana,Kamiturugiカミツルギ,['Beast Boost'],0.1
+Guzzlord,Akuzikingアクジキング,['Beast Boost'],888.0
+Necrozma,Necrozmaネクロズマ,['Prism Armor'],230.0
+Magearna,Magearnaマギアナ,['Soul-Heart'],80.5
